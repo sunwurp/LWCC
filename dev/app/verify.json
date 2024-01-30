@@ -1,0 +1,8 @@
+{
+  "VERSION": "https://github.com/sunwurp/LWCC/raw/main/dev/app/version.txt",
+  "DEVELOPER": "https://github.com/sunwurp/LWCC/raw/main/dev/ranks/DEV.lwcc",
+  "ADMIN": "https://github.com/sunwurp/LWCC/raw/main/dev/ranks/ADMIN.lwcc",
+  "MODERATOR": "https://github.com/sunwurp/LWCC/raw/main/dev/ranks/MOD.lwcc",
+  "PARTNER": "https://github.com/sunwurp/LWCC/raw/main/dev/ranks/PARTNER.lwcc",
+  "BAN": "https://github.com/sunwurp/LWCC/raw/main/dev/ranks/BAN.lwcc"
+}
